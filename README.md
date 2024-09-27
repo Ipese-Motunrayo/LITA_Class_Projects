@@ -3,8 +3,9 @@
 ### Project Title: E-commerce Sales Analysis
 
 ### Project Overview
-```
+---
 JNGFJKGJNRKRGNTGT
+
 ### Data Sources
 
 ### Tools Used
@@ -26,3 +27,5 @@ codes and expression used.
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+### Data Visualization
+![image](https://github.com/user-attachments/assets/fa28edce-f5b5-4000-8dd1-c3a0bb187629)
