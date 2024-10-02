@@ -1,11 +1,11 @@
 # LITA_Class_Projects
 
-### Project Title: E-commerce Sales Analysis
+### Project Title: Journey to becoming a Data Analyst
 
 ### Project Overview
----
-JNGFJKGJNRKRGNTGT
-
+What is data and why is it so important. The world runs on data. Businesses runs on data. 
+Is every data useful? If no, how to you get the best data? Like mining, data is a resource that doesnt come very shiny. It is dirty and not easily understood. 
+Through LITA, I have understood the importance of data and how to analyse data given with three major applications.
 ### Data Sources
 
 ### Tools Used
